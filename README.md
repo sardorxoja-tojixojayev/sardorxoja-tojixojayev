@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardorxoja-tojixojayev&" alt="sardorxoja-tojixojayev" /></p>
 
-![snake gif](https://github.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/blob/output/github-contribution-grid-snake.svg)
