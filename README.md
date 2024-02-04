@@ -36,4 +36,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/output/snake.gif" alt="Snake animation" />
