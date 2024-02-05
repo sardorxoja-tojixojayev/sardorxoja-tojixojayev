@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **tojixojayevsardor2007@gmail.com**
 
-- 📄 Know about my experiences [https://sardorxojatojixojayev.webflow.io/](https://sardorxojatojixojayev.webflow.io/)
+- 📄 Know about my experiences: [https://sardorxojatojixojayev.webflow.io/](https://sardorxojatojixojayev.webflow.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
