@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorxoja-tojixojayev" alt="sardorxoja-tojixojayev" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram**
+- 🔭 I’m currently working on: **Instagram**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning: **React.js**
 
-- 💬 Ask me about **html5, css3, javascript, react, illustrator**
+- 💬 Ask me about: **html5, css3, javascript, react, illustrator**
 
-- 📫 How to reach me **tojixojayevsardor2007@gmail.com**
+- 📫 How to reach me: **tojixojayevsardor2007@gmail.com**
 
 - 📄 Know about my experiences [https://sardorxojatojixojayev.webflow.io/](https://sardorxojatojixojayev.webflow.io/)
 
@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardorxoja-tojixojayev&" alt="sardorxoja-tojixojayev" /></p>
 
-![snake gif](https://github.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sardorxoja-tojixojayev/sardorxoja-tojixojayev/blob/output/github-contribution-grid-snake.gif)
